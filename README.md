@@ -121,7 +121,7 @@ a+b
 
 ### 如果是自己的图片
 //[图片名称](图片相对路径)
-- ![preview.gif](preview.gif)
+- ![keli](keli.jpg)
 
 6给图片加上超链接<br>
 [![baidu]](http://baidu.com)
